@@ -59,15 +59,15 @@ The system allows a single teacher to manage up to 20 students, including adding
 
 **Main Menu:**
 
-![Main Menu](images/main-menu.png)
+![Main Menu](images/main-menu.jpg)
 
 **Add Student:**
 
-![Add Student](images/add-student.png)
+![Add Student](images/add-student.jpg)
 
 **Student View:**
 
-![Student View](images/student-view.png)
+![Student View](images/student-view.jpg)
 
 ---
 
