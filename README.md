@@ -44,11 +44,11 @@ The system allows a single teacher to manage up to 20 students, including adding
    ```
 3. Make the script executable:
    ```bash
-   chmod +x main.sh
+   chmod +x sms.sh
    ```
 4. Run the script:
    ```bash
-   ./main.sh
+   ./sms.sh
    ```
 
 ---
