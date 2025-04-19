@@ -77,8 +77,7 @@ The system allows a single teacher to manage up to 20 students, including adding
 ├── sms.sh                 # Main script
 ├── student_data.txt        # Text file storing student records
 ├── images/                 # Folder containing screenshots
-├── SMS_Documentation.docx  # Word file with code + screenshots
-└── demo_video.mp4          # Optional: video demo (or external link)
+├── SMS_Project_wordFile.docx  # Word file with code + screenshots
 ```
 
 ---
