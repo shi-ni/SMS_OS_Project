@@ -55,7 +55,6 @@ The system allows a single teacher to manage up to 20 students, including adding
 
 ## 📷 Screenshots
 
-*(Make sure to upload screenshots in a folder named `images` in your repo)*
 
 **Main Menu:**
 
@@ -69,11 +68,6 @@ The system allows a single teacher to manage up to 20 students, including adding
 
 ![Student View](images/student-view.jpg)
 
----
-
-## 📹 Video Demonstration
-
-[📺 Click to Watch Video Demo](https://drive.google.com/your-demo-link-here)
 
 ---
 
